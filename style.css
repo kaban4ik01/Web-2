@@ -1,6 +1,6 @@
 html {
 	height: 100%;
-	background-color: rgb(56, 0, 94)
+	background-color: rgb(172, 176, 226)
 }
 
 body {
@@ -26,7 +26,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	padding-bottom: 20px;
-	background-color: #4e0679;
+	background-color: #7b7cdb;
 }
 
 
@@ -72,7 +72,7 @@ main {
 	justify-content: center;
 	width: 50%;
 	margin: auto;
-	background-color: #620896;
+	background-color: #7b7cdb;
 }
 
 ol {
