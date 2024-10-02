@@ -121,8 +121,9 @@ a {
 }
 
 footer
-{
-	padding-top: 100px;
+{	
+	
+	height: 40px;
 	font-size: 30px;
 	background-color: #7b7cdb;
 }
