@@ -73,6 +73,7 @@ main {
 	width: 50%;
 	margin: auto;
 	background-color: #7b7cdb;
+	border-radius: 20px;
 }
 
 ol {
