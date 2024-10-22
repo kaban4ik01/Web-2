@@ -10,10 +10,6 @@ body {
 
 
 
-.head__item {
-	color: #7c7c7c;
-}
-
 .header__nav {
 	display: flex;
 	justify-content: space-between;
@@ -23,8 +19,6 @@ body {
 
 .header {
 	width: 100%;
-	justify-content: center;
-	align-items: center;
 	padding-bottom: 20px;
 	background-color: #7b7cdb;
 }
@@ -69,7 +63,6 @@ li
 }
 
 main {
-	justify-content: center;
 	width: 50%;
 	margin: auto;
 	background-color: #7b7cdb;
@@ -83,7 +76,7 @@ ol {
 
 table {
 	width: 100px;
-	border-collapse: collapse;
+	 border-collapse: collapse;
 	text-align: center;
 	margin: auto;
 }
